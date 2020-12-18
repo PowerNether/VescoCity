@@ -957,6 +957,7 @@ footer .footerBottom__text {
 .page-node-4 .mainInfo__metro span {
   color: #000000;
   opacity: 0.6;
+  margin-left: 5px;
 }
 
 .page-node-4 .mainInfo__blue {
@@ -968,6 +969,7 @@ footer .footerBottom__text {
 .page-node-4 .mainInfo__blue span {
   color: #000000;
   opacity: 0.6;
+  margin-left: 5px;
 }
 
 .page-node-4 .mainInfo__update {
@@ -1105,6 +1107,7 @@ footer .footerBottom__text {
   text-transform: uppercase;
   color: #171717;
   font-weight: bold;
+  margin-bottom: 12px;
 }
 
 .page-node-4 .mainDesc__text {
